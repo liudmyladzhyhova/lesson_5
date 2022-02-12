@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap");
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	padding: 15px;
+}
+body {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+}
+
+.title {
+	font-weight: 700;
+	font-size: 40px;
+	color: rgb(197, 156, 236);
+}
+.margin {
+	margin: 20px 30px 15px 50px;
+}
+.padding1 {
+	padding: 20px 30px 20px 30px;
+}
+.padding2 {
+	padding: 0px 30px 20px 30px;
+}
+.padding3 {
+	padding: 0px 30px 20px 30px;
+}
+.italic {
+	color: rgb(219, 118, 118);
+	font-style: italic;
+}
+.padding4 {
+	padding: 0px 30px 20px 30px;
+}
+.padding5 {
+	padding: 0px 30px 20px 30px;
+}
+.title1 {
+	font-size: 30px;
+	color: rgb(163, 110, 118);
+	margin: 20px;
+}
+.width {
+	width: 600px;
+}
+.min-width {
+	min-width: 800px;
+	margin-bottom: 15px;
+}
+.max-width {
+	max-width: 800px;
+	margin-bottom: 15px;
+}
+.height {
+	height: 100px;
+}
+.percent {
+	width: 50%;
+	margin-bottom: 15px;
+}
+.center {
+	max-width: 500px;
+	margin: 0 auto 15px;
+}
+.right {
+	max-width: 500px;
+	margin: 0 0 15px auto;
+}
+.visible {
+	max-height: 50px;
+	overflow: visible;
+}
+.hidden {
+	max-width: 500px;
+	max-height: 50px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+.scroll {
+	max-width: 500px;
+	max-height: 100px;
+	overflow: scroll;
+}
+.auto {
+	max-width: 700px;
+	max-height: 100px;
+	overflow: auto;
+}
+.block {
+	max-width: 600px;
+	display: block;
+	margin-bottom: 15px;
+}
+.inline {
+	display: inline;
+}
+.image {
+	margin: 20px;
+}
+.inline-block {
+	max-width: 900px;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+.none {
+	display: none;
+}
+.title2 {
+	color: blueviolet;
+	font-size: 40px;
+}
